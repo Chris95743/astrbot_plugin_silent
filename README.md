@@ -24,12 +24,12 @@ _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 静默插件 ✨_
 ## 📦 安装
 
 - 可以直接在astrbot的插件市场搜索astrbot_plugin_silent，点击安装，耐心等待安装完成即可
-- 若是安装失败，可以尝试直接克隆源码：
+- 若安装失败，可以尝试直接克隆源码：
 
 ```bash
 # 克隆仓库到插件目录
 cd /AstrBot/data/plugins
-git clone https://github.com/Chris95743/astrbot_plugin_silent
+git clone https://github.com/chris95743/astrbot_plugin_silent
 
 # 控制台重启AstrBot
 ```
